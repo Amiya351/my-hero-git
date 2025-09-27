@@ -1,1 +1,1 @@
-This is_flask
+print("This is a flask_app")
